@@ -3,7 +3,6 @@
   padding: 0;
 }
 
-html,
 body {
   height: 100%;
 }
@@ -79,15 +78,4 @@ h2 {
 
 .link-list li a p {
   color: gray
-}
-
-footer {
-  margin-top: 15px;
-  padding: 30px;
-}
-
-footer p {
-  font-family: 'Signika Negative', sans-serif;;
-  color: #000000;
-  text-align: center;
 }
