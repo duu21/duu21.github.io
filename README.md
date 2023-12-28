@@ -1,9 +1,12 @@
 # Projeto Linktree
-![NPM](https://img.shields.io/npm/l/:https://github.com/eduardossoares/linktree-project/blob/main/LICENSE)
 
 Este é um projeto simples de LinkTree desenvolvido apenas com HTML e CSS. O LinkTree é uma página única que agrupa links para suas redes sociais, projetos e outros sites relevantes. É uma maneira elegante e fácil de compartilhar várias informações em um único local.
 
-## Como Usar
+# Layout do Projeto
+![fd2349b3-0852-4ef5-86f3-f25eb42087e7](https://github.com/eduardossoares/linktree-project/assets/128731192/f35ca331-1df6-46b8-bacf-3a3f6f2eee45)
+
+
+# Como Usar
 
 1. **Clone o repositório:**
 
@@ -96,7 +99,7 @@ Este é um projeto simples de LinkTree desenvolvido apenas com HTML e CSS. O Lin
         background-color: #f5f5f5;
     }
     ```
-## Linguagens Utilizadas
+# Linguagens Utilizadas
 
 - HTML
 - CSS
