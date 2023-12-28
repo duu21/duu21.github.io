@@ -101,7 +101,7 @@ Este é um projeto simples de LinkTree desenvolvido apenas com HTML e CSS. O Lin
 - HTML
 - CSS
 
-## Autor
+# Autor
 
 Eduardo da Silva Soares
 
